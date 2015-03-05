@@ -1,1 +1,3 @@
-puts ("Hello World!");
+name = 'Willow Cheng'
+puts 'Hello'
+puts name
